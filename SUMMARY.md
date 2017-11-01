@@ -16,4 +16,5 @@
 * [PostgreSQL](postgresql.md)
 * [R語言](ryu-yan.md)
 * [Spark](spark.md)
+* [Ubuntu](ubuntu.md)
 
