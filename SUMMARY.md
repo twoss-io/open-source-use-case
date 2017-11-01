@@ -6,4 +6,5 @@
 * [Ceph](ceph.md)
 * [Docker](docker.md)
 * [Hadoop](hadoop.md)
+* [LibreOffice](libreoffice.md)
 
