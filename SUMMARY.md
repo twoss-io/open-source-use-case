@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [CentOS](chapter1.md)
+* [CentOS](/centos.md "CentOS")
 * [Cacti](cacti.md)
 * [Ceph](ceph.md)
 * [Docker](docker.md)
@@ -17,4 +17,6 @@
 * [R語言](ryu-yan.md)
 * [Spark](spark.md)
 * [Ubuntu](ubuntu.md)
+
+
 
