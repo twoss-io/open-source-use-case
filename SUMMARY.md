@@ -9,4 +9,6 @@
 * [LibreOffice](libreoffice.md)
 * [MariaDB](mariadb.md)
 * [MongoDB](mongodb.md)
+* [MySQL](mysql.md)
+* [Nagios](nagios.md)
 
