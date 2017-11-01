@@ -1,4 +1,8 @@
 # 開源軟體典範案例
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+滿滿的開源軟體是這個時代的趨勢，但有時候讓人難以納入開源文化的是，我們並不清楚如何使用這些開源軟體。我們以案例的方式，整理真實應用的場域，再附上相關開源軟體的介紹，讓大家可以減少對開源軟體的隔闔。
+
+開源軟體並不是冷冰冰的技術大集合而已，它們已經在我們的左右，一起來看看開源軟體如何讓我們變得更好。
+
+本書由「[臺灣開源軟體協作工坊 TWOSS](https://twoss.io/)」提供，中文字型透過 [Noto CJK plugin](https://plugins.gitbook.com/plugin/notocjk) 套用開源字型。
 
