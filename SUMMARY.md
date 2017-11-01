@@ -12,4 +12,5 @@
 * [MySQL](mysql.md)
 * [Nagios](nagios.md)
 * [OpenNMS](opennms.md)
+* [OpenStack](openstack.md)
 
