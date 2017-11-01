@@ -1,7 +1,8 @@
 # Summary
 
 * [前言](README.md)
-* [CentOS](/centos.md "CentOS")
+* 作業系統
+  * [CentOS](/centos.md "CentOS")
 * [Cacti](cacti.md)
 * [Ceph](ceph.md)
 * [Docker](docker.md)
