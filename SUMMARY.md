@@ -5,4 +5,5 @@
 * [Cacti](cacti.md)
 * [Ceph](ceph.md)
 * [Docker](docker.md)
+* [Hadoop](hadoop.md)
 
