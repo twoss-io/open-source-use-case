@@ -14,3 +14,7 @@
 
 [Ubuntu - 專為 PCs, IoT 裝置、伺服器和雲端的領導作業系統](/ubuntu.md)
 
+## Ceph
+
+[Ceph - 使組織的 IT 設施和管理巨量資料功能大為增進](http://ceph.com/)
+
