@@ -2,6 +2,10 @@
 
 * [前言](README.md)
 
+## 典範案例
+
+* 敬請期待
+
 ## 作業系統
 
 * [CentOS](/centos.md)
