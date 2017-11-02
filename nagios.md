@@ -2,6 +2,8 @@
 
 ## **Nagios**
 
+![](/assets/nagios.PNG)
+
 ### 組織介紹
 
 Nagios是一個監視系統運行狀態和網絡信息的系統，它檢測主機和服務，當異常發生和解除時能提醒用戶。它是基於GPLv2開發的開源軟體，可免費獲得及使用。Nagios原名為NetSaint，由Ethan Galstad開發並維護至今。可運行在Linux/Unix平台之上，同時提供一個可選的基於瀏覽器的WEB界面以方便系統管理人員查看網絡狀態，各種系統問題，以及日誌等。
@@ -39,14 +41,14 @@ Nagios是在OpenStack部署中廣泛使用的，用於監控雲平台各種服�
 
 ### 資料來源：
 
-* [https://read01.com/PMdnzg.html](https://read01.com/PMdnzg.html)
-* [https://translate.google.com.tw/translate?hl=zh-TW&sl=zh-CN&u=https://zh.wikipedia.org/zh-tw/Nagios&prev=search](https://translate.google.com.tw/translate?hl=zh-TW&sl=zh-CN&u=https://zh.wikipedia.org/zh-tw/Nagios&prev=search)
-* [https://read01.com/zh-tw/PMdnzg.html\#.WeW6mFtL-M8](https://read01.com/zh-tw/PMdnzg.html#.WeW6mFtL-M8)
-* [https://kknews.cc/zh-tw/other/3jq6n3.html](https://kknews.cc/zh-tw/other/3jq6n3.html)
-* [https://read01.com/5MNJ0z.html](https://read01.com/5MNJ0z.html)
-* [https://kknews.cc/zh-tw/tech/38bgy3.html](https://kknews.cc/zh-tw/tech/38bgy3.html)
-* [https://ddnews.me/tech/u5bynlwk.html](https://ddnews.me/tech/u5bynlwk.html)
-* [https://baike.baidu.com/item/Nagios](https://baike.baidu.com/item/Nagios)
+* The Industry Standard In IT Infrastructure Monitoring [https://www.nagios.org/](https://www.nagios.org/)
+* nagios簡介，nagios及其查件的安裝   [https://read01.com/PMdnzg.html](https://read01.com/PMdnzg.html)
+*  維基百科Nagios [https://zh.wikipedia.org/zh-tw/Nagios](https://zh.wikipedia.org/zh-tw/Nagios)
+* nagios監控伺服器的搭建 [https://kknews.cc/zh-tw/other/3jq6n3.html](https://kknews.cc/zh-tw/other/3jq6n3.html)
+* OpenStack企業雲平台監控實踐 [https://read01.com/5MNJ0z.html](https://read01.com/5MNJ0z.html)
+* 誰會是 Zabbix 和 Nagios 的繼任者？ [https://kknews.cc/zh-tw/tech/38bgy3.html](https://kknews.cc/zh-tw/tech/38bgy3.html)
+* 2017 年最佳開源網路監控工具 [https://ddnews.me/tech/u5bynlwk.html](https://ddnews.me/tech/u5bynlwk.html)
+* NAGIOS [https://baike.baidu.com/item/Nagios](https://baike.baidu.com/item/Nagios)
 
 
 
