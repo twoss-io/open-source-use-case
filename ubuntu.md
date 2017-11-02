@@ -6,15 +6,13 @@
 
 ### 組織介紹
 
-Ubuntu開發是由南非企業家Mark Shuttleworth所創立的英國Canonical有限公司主導。Canonical通過銷售與Ubuntu相關的技術支援和其他服務來產生收益。Ubuntu項目公開承諾開源軟體開發的原則；鼓勵人們使用自由軟體，研究它的工作原理，改進和分發。
+Ubuntu開發是由南非企業家Mark Shuttleworth所創立的英國Canonical有限公司主導。Canonical通過銷售與Ubuntu相關的技術支援和其他服務產生收益。Ubuntu項目公開承諾開源軟體的開發原則；鼓勵人們使用自由軟體，研究它的工作原理和改進。
 
-Ubuntu是一個基於Debian的Linux操作系統，應用於桌面、伺服器、智慧手機和平板電腦等多個領域。Ubuntu由Canonical公司發布，他們提供商業支援。它是基於自由軟體，意思是「人性」、「我的存在是因為大家的存在」，是非洲傳統的一種價值觀。
+Ubuntu是一個根據Debian的Linux操作系統，應用於桌面、伺服器、智慧手機和平板等多個領域。Ubuntu由Canonical公司發布，他們提供商業支援。它是根據自由軟體，意思是「人性」、「我的存在是因為大家的存在」，是非洲傳統的一種價值觀。
 
 ### 軟體介紹
 
-Ubuntu是一個免費的開放原始碼平台，供用戶端、伺服器和雲端運算使用。在全世界的開發者共同努力下生成的開源發行版。在這些年的悉心經營下，Ubuntu的界面變得越來越現代化和人性化，整個系統運行也更加流暢、安全，並且有成千上萬的應用可供下載。
-
-由於它是基於的，因此它也支援.deb包、較新的包系統和更為安全的snap包格式，這種新的打包系統允許分發的應用自帶滿足所需的依賴性。
+Ubuntu是一個免費的開放原始碼平台，供用戶端、伺服器和雲端運算使用。在全世界的開發者共同努力下生成的開源發行版。在這些年的努力經營下，Ubuntu的界面變得越來越現代化和人性化，整個系統運行也更加流暢、安全，並且有成千上萬的應用可供下載。
 
 * 3D桌面環境、預設多個桌面、上萬種佈景主題
 * 可以安裝在任何地方（能存檔案的地方... ex.隨身硬碟、記憶卡），桌面帶著走。
@@ -35,16 +33,16 @@ Ubuntu是一個免費的開放原始碼平台，供用戶端、伺服器和雲�
 ### 資料來源：
 
 * [https://www.ubuntu.com/](https://www.ubuntu.com/)
-* [http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html](http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html)
-* [http://www.gegugu.com/2017/04/20/5991.html](http://www.gegugu.com/2017/04/20/5991.html)
-* [https://zh.wikipedia.org/wiki/Ubuntu](https://zh.wikipedia.org/wiki/Ubuntu)
-* [https://wiki.ubuntu-tw.org/index.php?title=Ubuntu](https://wiki.ubuntu-tw.org/index.php?title=Ubuntu)
-* [https://kknews.cc/other/oove9xo.html](https://kknews.cc/other/oove9xo.html)
-* [https://read01.com/JMkoQ.html](https://read01.com/JMkoQ.html)
-* [https://www.ithome.com.tw/news/105064](https://www.ithome.com.tw/news/105064)
-* [https://www.ithome.com.tw/news/93665](https://www.ithome.com.tw/news/93665)
-* [https://www.ithome.com.tw/node/70524](https://www.ithome.com.tw/node/70524)
-* [https://www.zixundingzhi.com/wulianwang/568f24b4298cd6cf.html](https://www.zixundingzhi.com/wulianwang/568f24b4298cd6cf.html)
+* CentOS、Ubuntu、Debian三個linux比較異同 [http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html](http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html)
+* CentOS 與 Ubuntu 誰與爭鋒 [http://www.gegugu.com/2017/04/20/5991.html](http://www.gegugu.com/2017/04/20/5991.html)
+* Ubuntu 維基百科 [https://zh.wikipedia.org/wiki/Ubuntu](https://zh.wikipedia.org/wiki/Ubuntu)
+* Ubuntu 正體中文 Wiki [https://wiki.ubuntu-tw.org/index.php?title=Ubuntu](https://wiki.ubuntu-tw.org/index.php?title=Ubuntu)
+* CentOS市場份額占66%，Ubuntu占20%，對於企業用戶   [https://kknews.cc/other/oove9xo.html](https://kknews.cc/other/oove9xo.html)
+* Canonical與甲骨文達成合作：甲骨文企業雲用戶可選擇Ubuntu   [https://read01.com/JMkoQ.html](https://read01.com/JMkoQ.html)
+* 微軟支援Linux更進一步，可以使用Windows 10執行Bash [https://www.ithome.com.tw/news/105064](https://www.ithome.com.tw/news/105064)
+* Canonical推出物聯網裝置專用的Ubuntu Core [https://www.ithome.com.tw/news/93665](https://www.ithome.com.tw/news/93665)
+* 新版Ubuntu讓企業快速安裝Hadoop [https://www.ithome.com.tw/node/70524](https://www.ithome.com.tw/node/70524)
+* 作為全球最流行的 Linux 發行版本，Ubuntu 推出精簡版用來構建更安全的物聯網[https://www.zixundingzhi.com/wulianwang/568f24b4298cd6cf.html](https://www.zixundingzhi.com/wulianwang/568f24b4298cd6cf.html)
 
 
 
