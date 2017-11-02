@@ -32,7 +32,7 @@ Ubuntu是一個免費的開放原始碼平台，供用戶端、伺服器和雲�
 
 ### 資料來源：
 
-* Ubuntu [https://www.ubuntu.com/](https://www.ubuntu.com/)
+* The leading operating system for PCs, IoT devices, servers and the cloud [https://www.ubuntu.com/](https://www.ubuntu.com/)
 * CentOS、Ubuntu、Debian三個linux比較異同 [http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html](http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html)
 * CentOS 與 Ubuntu 誰與爭鋒 [http://www.gegugu.com/2017/04/20/5991.html](http://www.gegugu.com/2017/04/20/5991.html)
 * Ubuntu 維基百科 [https://zh.wikipedia.org/wiki/Ubuntu](https://zh.wikipedia.org/wiki/Ubuntu)
