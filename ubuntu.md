@@ -34,6 +34,7 @@ Ubuntu是一個免費的開放原始碼平台，供用戶端、伺服器和雲�
 
 ### 資料來源：
 
+* [https://www.ubuntu.com/](https://www.ubuntu.com/)
 * [http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html](http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html)
 * [http://www.gegugu.com/2017/04/20/5991.html](http://www.gegugu.com/2017/04/20/5991.html)
 * [https://zh.wikipedia.org/wiki/Ubuntu](https://zh.wikipedia.org/wiki/Ubuntu)
