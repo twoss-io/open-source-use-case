@@ -32,13 +32,15 @@ Ubuntu是一個免費的開放原始碼平台，供用戶端、伺服器和雲�
 
 ### 資料來源：
 
-* [https://www.ubuntu.com/](https://www.ubuntu.com/)
+* Ubuntu [https://www.ubuntu.com/](https://www.ubuntu.com/)
 * CentOS、Ubuntu、Debian三個linux比較異同 [http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html](http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html)
 * CentOS 與 Ubuntu 誰與爭鋒 [http://www.gegugu.com/2017/04/20/5991.html](http://www.gegugu.com/2017/04/20/5991.html)
 * Ubuntu 維基百科 [https://zh.wikipedia.org/wiki/Ubuntu](https://zh.wikipedia.org/wiki/Ubuntu)
 * Ubuntu 正體中文 Wiki [https://wiki.ubuntu-tw.org/index.php?title=Ubuntu](https://wiki.ubuntu-tw.org/index.php?title=Ubuntu)
-* CentOS市場份額占66%，Ubuntu占20%，對於企業用戶   [https://kknews.cc/other/oove9xo.html](https://kknews.cc/other/oove9xo.html)
-* Canonical與甲骨文達成合作：甲骨文企業雲用戶可選擇Ubuntu   [https://read01.com/JMkoQ.html](https://read01.com/JMkoQ.html)
+* CentOS市場份額占66%，Ubuntu占20%，對於企業用戶
+   [https://kknews.cc/other/oove9xo.html](https://kknews.cc/other/oove9xo.html)
+* Canonical與甲骨文達成合作：甲骨文企業雲用戶可選擇Ubuntu
+   [https://read01.com/JMkoQ.html](https://read01.com/JMkoQ.html)
 * 微軟支援Linux更進一步，可以使用Windows 10執行Bash [https://www.ithome.com.tw/news/105064](https://www.ithome.com.tw/news/105064)
 * Canonical推出物聯網裝置專用的Ubuntu Core [https://www.ithome.com.tw/news/93665](https://www.ithome.com.tw/news/93665)
 * 新版Ubuntu讓企業快速安裝Hadoop [https://www.ithome.com.tw/node/70524](https://www.ithome.com.tw/node/70524)
