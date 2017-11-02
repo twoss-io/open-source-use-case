@@ -2,7 +2,7 @@
 
 ## **Nagios**
 
-![](/assets/nagios.PNG)
+![](/assets/nagios.png)
 
 ### 組織介紹
 
@@ -42,8 +42,9 @@ Nagios是在OpenStack部署中廣泛使用的，用於監控雲平台各種服�
 ### 資料來源：
 
 * The Industry Standard In IT Infrastructure Monitoring [https://www.nagios.org/](https://www.nagios.org/)
-* nagios簡介，nagios及其查件的安裝   [https://read01.com/PMdnzg.html](https://read01.com/PMdnzg.html)
-*  維基百科Nagios [https://zh.wikipedia.org/zh-tw/Nagios](https://zh.wikipedia.org/zh-tw/Nagios)
+* nagios簡介，nagios及其查件的安裝
+   [https://read01.com/PMdnzg.html](https://read01.com/PMdnzg.html)
+* 維基百科Nagios [https://zh.wikipedia.org/zh-tw/Nagios](https://zh.wikipedia.org/zh-tw/Nagios)
 * nagios監控伺服器的搭建 [https://kknews.cc/zh-tw/other/3jq6n3.html](https://kknews.cc/zh-tw/other/3jq6n3.html)
 * OpenStack企業雲平台監控實踐 [https://read01.com/5MNJ0z.html](https://read01.com/5MNJ0z.html)
 * 誰會是 Zabbix 和 Nagios 的繼任者？ [https://kknews.cc/zh-tw/tech/38bgy3.html](https://kknews.cc/zh-tw/tech/38bgy3.html)
