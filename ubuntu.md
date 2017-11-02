@@ -2,7 +2,7 @@
 
 ## **Ubuntu**
 
-![](/assets/下載.png)
+![](/assets/下載.png)![](/assets/ubuntu.png)
 
 ### 組織介紹
 
