@@ -10,5 +10,7 @@
 
 [LibreOffice - 自由的辦公軟體](/libreoffice.md)
 
+## Ubuntu
 
+[Ubuntu - The leading operating system for PCs, IoT devices, servers and the cloud](/ubuntu.md)
 
