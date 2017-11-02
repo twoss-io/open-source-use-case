@@ -36,6 +36,7 @@ Ceph以單一架構，同時提供物件、區塊、檔案的儲存，藉由RADO
 
 ### 資料來源：
 
+* Ceph Incremental Snapshots with RBD [http://ceph.com/geen-categorie/incremental-snapshots-with-rbd/](http://ceph.com/geen-categorie/incremental-snapshots-with-rbd/)
 * Ceph 簡介 [http://godleon.blogspot.tw/2014/10/ceph.html](http://godleon.blogspot.tw/2014/10/ceph.html)
 * 一次搞懂Ceph儲存架構與應用形式 [https://www.ithome.com.tw/tech/98860](https://www.ithome.com.tw/tech/98860)
 * 理解Ceph：一個開源的分布式存儲平台 [https://read01.com/0z5aGM.html](https://read01.com/0z5aGM.html)
