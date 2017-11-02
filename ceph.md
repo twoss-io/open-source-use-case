@@ -6,15 +6,15 @@
 
 ### 組織介紹
 
-在2004年，Sage Weil開發了一個名叫Ceph的開源項目，並於2006年，基於開源協議開源了Ceph。Weil曾經是「Inktank Storage」公司的創始人。Inktank Storage一直專注於Ceph的研發，直到它被紅帽收購。2012年，Ceph的第一個穩定版本發布了。2014年10月，Ceph的開發團隊發布了Ceph的第七個穩定版本Giant。為了讓Ceph更加成熟與完美，這個項目還在繼續開發中。
+在2004年，Sage Weil開發了一個名叫Ceph的開源項目，並於2006年，根據開源協議開源了Ceph。Weil曾經是「Inktank Storage」公司的創始人。Inktank Storage一直專注於Ceph的研發，直到它被紅帽收購。2012年，Ceph的第一個穩定版本發布了。2014年10月，Ceph的開發團隊發布了Ceph的第七個穩定版本Giant。為了讓Ceph更加成熟與完美，這個項目還在繼續開發中。
 
 ### 軟體介紹
 
 它是以RADOS \(Reliable Autonomic Distributed Object Store\)為主要設計方式的分散式儲存平台，因此在水平擴展的能力極為強大。
 
-Ceph以單一架構，同時提供物件、區塊、檔案的儲存，藉由RADOS函式庫中介，程式可直接存取底層叢集，並提供物件儲存閘道、區塊儲存裝置來對應存取，也可搭配元資料伺服器來提供檔案系統服務，而底層則是由多個RADOS節點組成的叢集所構成，可橫向擴充數千個節點，並以此提供PB、甚至EB等級的儲存空間。
+Ceph以單一架構，同時提供物件、區塊、檔案的儲存，藉由RADOS函式庫中介，程式可直接存取底層叢集，並提供物件儲存閘道、區塊儲存裝置來對應存取，也可搭配原資料伺服器來提供檔案系統服務，而底層則是由多個RADOS節點組成的叢集所構成，可橫向擴充數千個節點，並以此提供PB、甚至EB等級的儲存空間。
 
-* 物件儲存：Ceph的底層是RADO儲存著許許多多的物件，應用程式可以透過LIBRADOS這個API或是透過Ceph提供的RADOSGW\(RADOS Gateway\)網頁介面存取物件。
+* 物件儲存：Ceph的底層是RADO儲存著許多的物件，應用程式可以透過LIBRADOS這個API或是透過Ceph提供的RADOSGW\(RADOS Gateway\)網頁介面存取物件。
 
 * 區塊設備：於LIBRADOS之上，RBD \(Distributed Block Device\)提供區塊設備，可以當成系統的一個區塊設備格式化並掛載，也可以提供給QEMU/KVM虛擬機使用。
 
@@ -22,11 +22,9 @@ Ceph以單一架構，同時提供物件、區塊、檔案的儲存，藉由RADO
 
 要使Ceph能夠成為高可靠度、高擴充性的儲存環境，它所採用的RADOS服務是重要基礎。RADOS架構包含了儲存節點和監控器，而其中的儲存節點，又可區分為OSD、檔案系統與硬碟等三大部分。
 
-uMON \(Monitor\)：監控整個cluster的狀態，算是Ceph cluster的中樞，可以有多台來避免單點失效。
-
-uOSD \(Object storage device\)：實際儲存資料，一台主機可以有多個OSD，不建議使用RAID。若發現有其他OSD故障則回報MON。
-
-uMDS \(Metadata server\)：若有使用CEPH FS則必須有此MDS記錄檔案系統Metadata,但目前只支援同時一台Active,因此會造成效能瓶頸。
+* MON \(Monitor\)：監控整個cluster的狀態，算是Ceph cluster的中樞，可以有多台來避免單點失效。
+* OSD \(Object storage device\)：實際儲存資料，一台主機可以有多個OSD，不建議使用RAID。若發現有其他OSD故障則回報MON。
+* MDS \(Metadata server\)：若有使用CEPH FS則必須有此MDS記錄檔案系統Metadata，但目前只支援同時一台Active，因此會造成效能瓶頸。
 
 ### 應用
 
