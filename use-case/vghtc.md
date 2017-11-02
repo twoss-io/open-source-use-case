@@ -2,7 +2,7 @@
 
 ## 台中榮民總醫院致力引進開源軟體
 
-> [PDF下載](https://github.com/twoss-io/open-source-use-case/blob/master/assets/%E8%B3%87%E7%AD%96%E6%9C%83%E9%96%8B%E6%BA%90-%E5%8F%B0%E4%B8%AD%E6%A6%AE%E7%B8%BD-3_F.pdf)
+> 本文同步刊登於：[https://www.ithome.com.tw/pr/116470](https://www.ithome.com.tw/pr/116470)
 
 ![](/assets/vghtc-1.png)  
 **台中榮民總醫院資訊室主任 楊晴雯**
