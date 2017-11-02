@@ -2,7 +2,7 @@
 
 ## **CentOS**
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Centos-logo-light.svg/220px-Centos-logo-light.svg.png)
+![](/assets/220px-Centos-logo-light.svg.png)
 
 ### 組織介紹
 
