@@ -1,6 +1,6 @@
 # Summary
 
-* [前言](README.md)
+* [開源應用技術研發人才培育計畫](README.md)
 
 ## 典範案例
 
@@ -42,6 +42,4 @@
 ## 檔案儲存
 
 * [Cacti](cacti.md)
-
-
 
