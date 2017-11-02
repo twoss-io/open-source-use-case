@@ -12,5 +12,5 @@
 
 ## Ubuntu
 
-[Ubuntu - The leading operating system for PCs, IoT devices, servers and the cloud](/ubuntu.md)
+[Ubuntu - 專為 PCs, IoT 裝置、伺服器和雲端的領導作業系統](/ubuntu.md)
 
