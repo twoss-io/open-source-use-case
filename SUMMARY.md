@@ -4,7 +4,7 @@
 
 ## 典範案例
 
-* [台中榮民總醫院致力引進開源軟體](dian-fan-an-li/vghtc.md)
+* [台中榮民總醫院致力引進開源軟體](/dian-fan-an-li/vghtc.md)
 
 ## 作業系統
 
@@ -42,4 +42,6 @@
 ## 檔案儲存
 
 * [Cacti](cacti.md)
+
+
 
