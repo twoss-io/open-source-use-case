@@ -2,7 +2,7 @@
 
 ## **Ceph**
 
-![](/assets/1509609660571.jpg)
+![](/assets/1509609660571.jpg)![](/assets/ceph.jpg)
 
 ### 組織介紹
 
