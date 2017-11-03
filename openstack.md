@@ -34,7 +34,8 @@ OpenStack多半用於軟體測試與開發、網站代管與前導式的IT專案
 
 ### 資料來源：
 
-* 聯通成OpenStack基金會黃金會員，三大運營商齊了   [https://read01.com/zh-tw/exnK02.html\#.WeQth1uCyM8](https://read01.com/zh-tw/exnK02.html#.WeQth1uCyM8)
+* OpenStack is open source software for creating private and public clouds. [https://www.openstack.org/](https://www.openstack.org/)
+* 聯通成OpenStack基金會黃金會員，三大運營商齊了 [https://read01.com/zh-tw/exnK02.html\#.WeQth1uCyM8](https://read01.com/zh-tw/exnK02.html#.WeQth1uCyM8)
 * OpenStack如何打破“應用牆” [http://www.sites-help.com/aliyun/aliyunqi/1507683483\_zh.html](http://www.sites-help.com/aliyun/aliyunqi/1507683483_zh.html)
 * OpenStack 介紹技術 [https://kairen.gitbooks.io/openstack-liberty/content/conceptions/index.html](https://kairen.gitbooks.io/openstack-liberty/content/conceptions/index.html)
 * 尋找OpenStack成長新動能 [https://www.ithome.com.tw/news/112032](https://www.ithome.com.tw/news/112032)
