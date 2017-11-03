@@ -8,6 +8,14 @@
 
 > 連結典範案例
 
+### Why CentOS
+
+* [ ] 你後續需要最大的商用 Linux 支援服務，CentOS 可視為免費版的 Red Hat Enterprise Linux。
+* [ ] 你只在乎最穩定的套件軟體，新功能支援是次要考量。
+* [ ] 你希望官方對釋出版的支援期更長。CentOS 6 是 10 年（2010 - 2020），CentOS 7 於 2014 年發行。
+* [ ] 你的管理人員對管理工具需求更多。例如：希望採用 [cPanel 管理工具](https://cpanel.com/)（商用）。
+* [ ] 你更注重安全性更新的頻率。
+
 ### 組織介紹
 
 CentOS \(Community Enterprise Operating System\)是Linux發行版之一，它是來自於Red Hat Enterprise Linux依照開放原始碼規定釋出的原始碼所編譯而成。由於出自同樣的原始碼，因此有些要求高度穩定性的伺服器以CentOS替代商業版的Red Hat Enterprise Linux使用。兩者的不同，在於CentOS並不包含封閉原始碼軟體。CentOS對上游代碼的主要修改是為了移除不能自由使用的商標。2014年，CentOS宣布與Red Hat合作，但CentOS將會在新的委員會下繼續運作，並不受RHEL的影響。CentOS和RHEL一樣，都可以使用Fedora EPEL來補足軟體。
