@@ -24,7 +24,7 @@ MySQL提供了最完善健全的資料庫功能，強調為可靠、高效並且
 
 StackOverflow發布2017年最流行資料庫排名，接受調查的開發者中近一半的都使用MySQL \(44.3%\)，市場佔有率不斷攀升，很大一部份原因是網際網路行業快速發展，因為開源免費易用。
 
-2010年以前Internet上流行的網站構架方式是LAMP \(Linux Apache MySQL PHP\)，即是用Linux作為作業系統，Apache作為網頁伺服器，MySQL作為資料庫，PHP（部分網站也使用Perl或Python）作為伺服器端腳本解釋器。由於這四個軟體都是開放原始碼軟體，因此使用這種方式可以以較低的成本建立起一個穩定、免費的網站系統。MySQL加PHP的配對在網際網路上的應用相比LAMP來說更為常見，並獲得了「動態配對」\(Dynamic Duo\)的雅號，大部分Blog網站基於的WordPress系統主要運用MySQL加PHP的配對。除了LAMP之外，用於Solaris、Windows和Mac上的網站構架也分別被稱為SAMP、WAMP和MAMP。
+2010年以前流行的網站構架方式是LAMP \(Linux Apache MySQL PHP\)，即是用Linux作為作業系統，Apache作為網頁伺服器，MySQL作為資料庫，PHP（部分網站也使用Perl或Python）作為伺服器端腳本解釋器。由於這四個軟體都是開放原始碼軟體，因此使用這種方式可以以較低的成本建立起一個穩定、免費的網站系統。MySQL加PHP的配對在網際網路上的應用相比LAMP來說更為常見，並獲得了「動態配對」\(Dynamic Duo\)的雅號，大部分Blog網站基於的WordPress系統主要運用MySQL加PHP的配對。除了LAMP之外，用於Solaris、Windows和Mac上的網站構架也分別被稱為SAMP、WAMP和MAMP。
 
 ### 資料來源：
 
