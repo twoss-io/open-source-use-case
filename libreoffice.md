@@ -2,6 +2,8 @@
 
 ## **LibreOffice**
 
+![](/assets/LibreOffice.png)
+
 ### 組織介紹
 
 LibreOffice是由非營利組織文件基金會\(The Document Foundation，TDF\)開發的自由及開放原始碼的辦公室套裝軟體。主要由OpenOffice.org社群成員創立的基金會，相信自由軟體第一重要的概念指的是自由，而非價格，使用者應該擁有執行、複製、散布、研究、編修、改善軟體的自由。
