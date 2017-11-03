@@ -49,7 +49,7 @@ Nagios是在OpenStack部署中廣泛使用的，用於監控雲平台各種服�
 * OpenStack企業雲平台監控實踐 [https://read01.com/5MNJ0z.html](https://read01.com/5MNJ0z.html)
 * 誰會是 Zabbix 和 Nagios 的繼任者？ [https://kknews.cc/zh-tw/tech/38bgy3.html](https://kknews.cc/zh-tw/tech/38bgy3.html)
 * 2017 年最佳開源網路監控工具 [https://ddnews.me/tech/u5bynlwk.html](https://ddnews.me/tech/u5bynlwk.html)
-* NAGIOS [https://baike.baidu.com/item/Nagios](https://baike.baidu.com/item/Nagios)
+* NAGIOS 百度百科 [https://baike.baidu.com/item/Nagios](https://baike.baidu.com/item/Nagios)
 
 
 
