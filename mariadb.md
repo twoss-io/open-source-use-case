@@ -42,13 +42,14 @@ MariaDB擁有約1200萬名全球用戶，其中包括Booking.com、惠普、維�
 
 ### 資料來源：
 
+* MariaDB \| Open Source Database \(RDBMS\) for the Enterprise [https://mariadb.com/](https://mariadb.com/)
 * 維基百科 MariaDB [https://zh.wikipedia.org/wiki/MariaDB](https://zh.wikipedia.org/wiki/MariaDB)
 * MariaDB 10新版大躍進 [https://www.ithome.com.tw/news/86622](https://www.ithome.com.tw/news/86622)
 * MariaDB的介紹 [http://www.w3ii.com/zh-TW/mariadb/mariadb\_introduction.html](http://www.w3ii.com/zh-TW/mariadb/mariadb_introduction.html)
 * MariaDB 基金會發布 MariaDB 10 的通用版 [https://ifun01.com/8V8ZFD4.html](https://ifun01.com/8V8ZFD4.html)
 * 百度百科 MariaDB [https://baike.baidu.com/item/MariaDB\#reference-\[1\]-2521908-wrap](https://baike.baidu.com/item/MariaDB#reference-[1]-2521908-wrap)
 * Google棄甲骨文MySQL，將大規模導入MariaDB [https://blog.pumo.com.tw/archives/630](https://blog.pumo.com.tw/archives/630)
-* 騰訊雲正式成為MariaDB基金會白金會員 [http://sina.com.hk/news/article/20170619/0/5/2/%E9%A8%B0%E8%A8%8A%E9%9B%B2%E6%AD%A3%E5%BC%8F%E6%88%90%E7%82%BAMariaDB%E5%9F%BA%E9%87%91%E6%9C%83%E7%99%BD%E9%87%91%E6%9C%83%E5%93%A1-7571666.html](http://sina.com.hk/news/article/20170619/0/5/2/%E9%A8%B0%E8%A8%8A%E9%9B%B2%E6%AD%A3%E5%BC%8F%E6%88%90%E7%82%BAMariaDB%E5%9F%BA%E9%87%91%E6%9C%83%E7%99%BD%E9%87%91%E6%9C%83%E5%93%A1-7571666.html)
+* 騰訊雲正式成為MariaDB基金會白金會員 [http://sina.com.hk/news/article/20170619/0/5/2/%E9%A8%B0%E8%A8%8A%E9%9B%B2%E6%AD%A3%E5%BC%8F%E6%88%90%E7%82%BAMariaDB%E5%9F%BA%E9%87%91%E6%9C%83%E7%99%BD%E9%87%91%E6%9C%83%E5%93%A1-7571666.html](http://sina.com.hk/news/article/20170619/0/5/2/騰訊雲正式成為MariaDB基金會白金會員-7571666.html)
 
 
 
