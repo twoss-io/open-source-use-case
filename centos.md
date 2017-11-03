@@ -39,11 +39,11 @@ CentOS強調一般使用者都可以聯絡到開發者，並且會回應使用�
 ### 資料來源：
 
 * CentOS Project. [https://www.centos.org/](https://www.centos.org/)
-* [https://zh.wikipedia.org/wiki/CentOS](https://zh.wikipedia.org/wiki/CentOS)
-* [http://www.netadmin.com.tw/article\_content.aspx?sn=1108100007](http://www.netadmin.com.tw/article_content.aspx?sn=1108100007)
-* [http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html](http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html)
-* [http://www.gegugu.com/2017/04/20/5991.html](http://www.gegugu.com/2017/04/20/5991.html)
-* [https://baike.baidu.com/item/CentOS](https://baike.baidu.com/item/CentOS)
+* 維基百科 CentOS [https://zh.wikipedia.org/wiki/CentOS](https://zh.wikipedia.org/wiki/CentOS)
+* 伺服器安裝第一首選 CentOS 6帶來寧靜革命 [http://www.netadmin.com.tw/article\_content.aspx?sn=1108100007](http://www.netadmin.com.tw/article_content.aspx?sn=1108100007)
+* CentOS、Ubuntu、Debian三個linux比較異同 [http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html](http://www.unixlinux.online/unixlinux/gdliunx/ubuntulinux/201703/99359.html)
+* CentOS 與 Ubuntu 誰與爭鋒 [http://www.gegugu.com/2017/04/20/5991.html](http://www.gegugu.com/2017/04/20/5991.html)
+* centos 介绍 [https://baike.baidu.com/item/CentOS](https://baike.baidu.com/item/CentOS)
 
 
 
