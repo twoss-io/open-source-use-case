@@ -39,8 +39,9 @@ R主要是以命令列操作，同時有人開發了幾種圖形用戶介面。C
 ### 資料來源：
 
 * R: The R Project for Statistical Computing [https://www.r-project.org/](https://www.r-project.org/)
-*  R 語言簡介 [https://blog.gtwang.org/r/introduction-to-r-language/](https://blog.gtwang.org/r/introduction-to-r-language/)
-* 維基百科   R 語言 [https://zh.wikipedia.org/wiki/R%E8%AF%AD%E8%A8%80](https://zh.wikipedia.org/wiki/R语言)
+* R 語言簡介 [https://blog.gtwang.org/r/introduction-to-r-language/](https://blog.gtwang.org/r/introduction-to-r-language/)
+* 維基百科 
+  R 語言 [https://zh.wikipedia.org/wiki/R%E8%AF%AD%E8%A8%80](https://zh.wikipedia.org/wiki/R语言)
 * R語言：開放性資料分析工具水漲船高 [http://www.runpc.com.tw/content/content.aspx?id=109828](http://www.runpc.com.tw/content/content.aspx?id=109828)
 * 除資料分析外，R 還能幫我們做什麼？ [http://edm.ares.com.tw/dm/newsletter-2015-03-BNK/it-1.php](http://edm.ares.com.tw/dm/newsletter-2015-03-BNK/it-1.php)
 
