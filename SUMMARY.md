@@ -6,6 +6,7 @@
 
 * [台中榮民總醫院致力引進開源軟體](/use-case/vghtc.md)
 * [水利雲受推崇 開源軟體扮演幕後功臣](shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
+* [滿足致命基因定位需求 R軟體成統計分析市場主流](man-zu-zhi-ming-ji-yin-ding-wei-xu-qiu-r-ruan-ti-cheng-tong-ji-fen-xi-shi-chang-zhu-liu.md)
 
 ## 作業系統
 
