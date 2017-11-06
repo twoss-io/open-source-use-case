@@ -54,7 +54,9 @@
 
 [R語言 - 為統計計算的專案](/ryu-yan.md)
 
+## Hadoop
 
+[Hadoop - 開發可靠的、可擴展性、分散式運算的開源軟體](/hadoop.md)
 
 
 
