@@ -2,6 +2,8 @@
 
 ## **Cacti**
 
+![](/assets/cacti.jpg)
+
 ### 典範案例
 
 * [台中榮民總醫院致力引進開源軟體](//use-case/vghtc.md)
