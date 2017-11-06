@@ -5,6 +5,7 @@
 ## 典範案例
 
 * [台中榮民總醫院致力引進開源軟體](/use-case/vghtc.md)
+* [水利雲受推崇 開源軟體扮演幕後功臣](shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
 
 ## 作業系統
 
