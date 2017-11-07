@@ -4,6 +4,10 @@
 
 ![](/assets/OpenStack.png)
 
+### 典範案例
+
+* [水利雲受推崇 開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
+
 ### 組織介紹
 
 美國國家航空暨太空總署和Rackspace合作研發的雲端運算軟體，以Apache授權條款，是一個自由軟體和開放原始碼計畫，來打造基礎設施即服務。
