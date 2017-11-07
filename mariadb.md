@@ -4,6 +4,10 @@
 
 ![](/assets/MariaDB.png)
 
+### 典範案例
+
+* [營建署著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
+
 ### 組織介紹
 
 MariaDB是從MySQL獨立出來的另一套衍生資料庫，而且都來自相同的創始人Michael Widenius和其他創始人在1994年開始開發MySQL，2008年將MySQL賣給了昇陽電腦，傳為開源軟體商業化的經典案例。
