@@ -4,6 +4,10 @@
 
 ![](/assets/postgresql.png)
 
+### 典範案例
+
+* [地質騰雲網運用多套開源軟體](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti.md)
+
 ### 組織介紹
 
 PostgreSQL是由散佈在全球的數百名開發者（包含非營利組織團體，學術研究機構及國際企業體）志願貢獻與共同開發的專案成果，歷經22年來持續發展。長久以來被用於要求極端嚴謹的商業應用／科學研究環境及政府組織中。PostgreSQL為BSD版權協議發佈，允許在商業或非商業應用的兩種環境下，皆能享有自由取得且不受限制的使用權。PostgreSQL 具有高度擴展性，且完整遵從國際 ISO-SQL 規範的開發方向，是當前最先進的開放原始碼 \(OSS\) 的物件關聯型資料庫管理系統 \(ORDBMS\)。
