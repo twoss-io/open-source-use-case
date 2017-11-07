@@ -2,7 +2,7 @@
 
 ## 財政部關務署導入 LibreOffice 有成  開源軟體普及率達到 60 %
 
-![](/assets/123_47.jpg)
+![](/assets/123_47.jpg)![](/assets/vghtc-4.jpg)
 
 **財政部關務署關務資訊組科長 郁筱平**
 
