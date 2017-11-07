@@ -4,6 +4,10 @@
 
 ![](/assets/R.png)
 
+### 典範案例
+
+* [R軟體成統計分析市場主流](/man-zu-zhi-ming-ji-yin-ding-wei-xu-qiu-r-ruan-ti-cheng-tong-ji-fen-xi-shi-chang-zhu-liu.md)
+
 ### 組織介紹
 
 R語言，一種自由軟體程式語言與操作環境，主要用於統計分析、繪圖、資料探勘。R程式語言誕生於90年代初期，由奧克蘭大學的Ross Ihaka與 Robert Gentleman所發展出來的，它是以S語言為基礎所發展出來的一個 GNU專案，以免費且開放的方式釋出其原始碼，目前R這個專案是由R Core Team的二十位成員負責開發與維護。
