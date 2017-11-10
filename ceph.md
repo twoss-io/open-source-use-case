@@ -4,6 +4,10 @@
 
 ![](/assets/1509609660571.jpg)![](/assets/Ceph.png)
 
+### 典範案例
+
+* [經濟部水利署 — 水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
+
 ### 組織介紹
 
 在2004年，Sage Weil開發了一個名叫Ceph的開源項目，並於2006年，根據開源協議開源了Ceph。Weil曾經是「Inktank Storage」公司的創始人。Inktank Storage一直專注於Ceph的研發，直到它被紅帽收購。2012年，Ceph的第一個穩定版本發布了。2014年10月，Ceph的開發團隊發布了Ceph的第七個穩定版本Giant。為了讓Ceph更加成熟與完美，這個項目還在繼續開發中。
