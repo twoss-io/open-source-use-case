@@ -6,7 +6,7 @@
 
 ### 典範案例
 
-* [地質騰雲網運用多套開源軟體](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti.md)
+* [經濟部中央地質調查所 — 地質騰雲網運用多套開源軟體](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti.md)
 
 ### 組織介紹
 
