@@ -7,6 +7,7 @@
 ### 典範案例
 
 * [經濟部水利署—水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
+* [台中榮民總醫院致力引進開源軟體](//use-case/vghtc.md)
 
 ### 組織介紹
 
