@@ -6,7 +6,7 @@
 
 * [台中榮民總醫院致力引進開源軟體](/use-case/vghtc.md)
 * [經濟部水利署—水利雲受推崇開源軟體扮演幕後功臣](shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
-* [R軟體成統計分析市場主流](man-zu-zhi-ming-ji-yin-ding-wei-xu-qiu-r-ruan-ti-cheng-tong-ji-fen-xi-shi-chang-zhu-liu.md)
+* [中央研究院 — R軟體成統計分析市場主流](man-zu-zhi-ming-ji-yin-ding-wei-xu-qiu-r-ruan-ti-cheng-tong-ji-fen-xi-shi-chang-zhu-liu.md)
 * [財政部關務署導入 LibreOffice 有成](cai-zheng-bu-guan-wu-shu-dao-ru-libreoffice-you-cheng.md)
 * [地質騰雲網運用多套開源軟體](use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti.md)
 * [營建署著手打 造 SDS 架構](use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)

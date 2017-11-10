@@ -6,7 +6,7 @@
 
 ### 典範案例
 
-* [R軟體成統計分析市場主流](/man-zu-zhi-ming-ji-yin-ding-wei-xu-qiu-r-ruan-ti-cheng-tong-ji-fen-xi-shi-chang-zhu-liu.md)
+* [中央研究院 — R軟體成統計分析市場主流](/man-zu-zhi-ming-ji-yin-ding-wei-xu-qiu-r-ruan-ti-cheng-tong-ji-fen-xi-shi-chang-zhu-liu.md)
 
 ### 組織介紹
 
