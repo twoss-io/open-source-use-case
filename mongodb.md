@@ -4,6 +4,10 @@
 
 ![](/assets/mongodb.png)
 
+### 典範案例
+
+* [內政部營建署著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
+
 ### 組織介紹
 
 是2007年由10gen公司開發的一套開源NoSQL資料庫，屬於文件導向資料庫類型，希望能夠結合關係資料庫與非關係資料庫雙方的優點，適合用在網頁應用程式、網路架構的環境底下。2013年更名為MongoDB Inc.，讓大家能由公司名稱直接就聯想到其代表性產品。
