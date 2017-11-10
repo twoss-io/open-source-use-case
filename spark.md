@@ -4,6 +4,10 @@
 
 ![](/assets/Spark.png)
 
+### 典範案例
+
+* [經濟部水利署 — 水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
+
 ### 組織介紹
 
 Apache Spark是一個圍繞速度、易用性和複雜分析構建的大數據處理框架。Spark在2009年由Matei Zaharia在加州大學柏克萊分校AMPLab開創，2010年透過BSD授權條款開源釋出。2013年該專案被捐贈給Apache軟體基金會並切換授權條款至Apache2.0。2014年Spark成為Apache的頂級專案，有超過400多位貢獻家投入Spark開發，讓其成為基金會以及巨量資料眾多開源專案中最活躍得專案。

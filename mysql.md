@@ -4,6 +4,10 @@
 
 ![](/assets/MySQL..png)
 
+### 典範案例
+
+* [經濟部水利署 — 水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
+
 ### 組織介紹
 
 MySQL原本是一個開放原始碼的關聯式資料庫管理系統，原開發者為瑞典的MySQL AB公司，該公司於2008年被昇陽微系統收購。2009年甲骨文公司\(Oracle\)收購昇陽微系統公司，MySQL成為Oracle旗下產品。
