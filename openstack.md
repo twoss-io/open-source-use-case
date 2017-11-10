@@ -6,7 +6,7 @@
 
 ### 典範案例
 
-* [水利雲受推崇 開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
+* [經濟部水利署—水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
 
 ### 組織介紹
 
