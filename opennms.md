@@ -4,6 +4,10 @@
 
 ![](/assets/opennms.png)
 
+### 典範案例
+
+* [內政部營建署著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
+
 ### 組織介紹
 
 OpenNMS是一個免費的開源企業級網路監控和網路管理平台。它是由用戶和開發人員社群以及OpenNMS集團開發和支持的，提供商業服務、培訓和支持。目標是使OpenNMS成為FCAPS網路管理模型的所有方面的真正分佈式，可擴展的管理應用平台，同時保持100％的免費和開放原始碼。目前的重點是放在故障和性能管理。與該項目相關的所有原始碼均可在Affero通用公共許可證下獲得。
