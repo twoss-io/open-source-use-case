@@ -4,6 +4,10 @@
 
 ![](/assets/Hadoop.png)
 
+### 典範案例
+
+* [經濟部水利署 — 水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
+
 ### 組織介紹
 
 Hadoop源自於Google在2004年提出Map/Reduce和Google File System的啟發，Google的MapReduce運算方法可以把應用程式分解為許多並行計算指令，跨大量的計算節點運行巨大的數據集。使用該框架的常見例子就是在網路數據上運行的搜索演算法。
