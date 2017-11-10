@@ -4,6 +4,10 @@
 
 ![](/assets/下載.png)![](/assets/ubuntu.png)
 
+### 典範案例
+
+* [內政部營建署著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
+
 ### Why UBUNTU
 
 * 你希望有龐大的使用者社群資源。
