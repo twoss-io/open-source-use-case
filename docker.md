@@ -4,6 +4,10 @@
 
 ![](/assets/Docker.png)
 
+### 典範案例
+
+* [經濟部中央地質調查所 — 地質騰雲網運用多套開源軟體](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti.md)
+
 ### 組織介紹
 
 Docker是一個開源專案，誕生於2013年初，最初是dotCloud公司內部的一個業餘專案。它根據Google公司推出的Go語言實作。專案後來加入了Linux基金會，遵守了Apache 2.0協議，原始碼在GitHub上進行維護。依據容器技術，對其進一步的封裝，讓使用者更容易操作、快速建立Container、搭建一個開發環境、部署程式碼進行測試。Docker提供應用程式在獨立的container中執行，透過Docker Engine來進行管理。
