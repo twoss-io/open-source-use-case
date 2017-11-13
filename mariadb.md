@@ -12,7 +12,7 @@
 
 MariaDB 是從 MySQL 獨立出來的另一套衍生資料庫，而且都來自相同的創始人 Michael Widenius 和其他創始人在 1994 年開始開發MySQL，2008年將 MySQL 賣給了昇陽電腦，傳為開源軟體商業化的經典案例。
 
-2 年後，MySQL 更推出大受歡迎的 5.5 版，但甲骨文卻收購了昇陽電腦。為保證仍有開源可用的兼容 MySQL 的分支可用，Michael Widenius 在創立了 MariaDB 的同時，還成立了非營利組織 MariaDB 基金會為 MariaDB 項目、用戶和開發者社區提供基礎架構支援。目前 MariaDB 是發展最快的 MySQL 分支版本，新版本發佈速度已經超過了商用的 MySQL 版本，在開源數據庫領域擁有較強的技術影響力。
+2 年後，MySQL 更推出大受歡迎的 5.5 版，但甲骨文卻收購了昇陽電腦。為保證仍有開源可用的兼容 MySQL 的分支可用，Michael Widenius 在創立了 MariaDB 的同時，還成立了非營利組織 MariaDB 基金會為 MariaDB 項目、用戶和開發者社群提供基礎架構支援。目前 MariaDB 是發展最快的 MySQL 分支版本，新版本發佈速度已經超過了商用的 MySQL 版本，在開源資料庫領域擁有較強的技術影響力。
 
 ### 軟體介紹
 
