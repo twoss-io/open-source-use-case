@@ -26,7 +26,7 @@
 
 * MON \(Monitor\)：監控整個群集的狀態，算是 Ceph 群集的中樞，可以有多台來避免單點失效。
 * OSD \(Object storage device\)：實際儲存資料，一台主機可以有多個 OSD，不建議使用 RAID。若發現有其他 OSD 故障則回報MON。
-* MDS \(Metadata server\)：若有使用 Ceph FS 則必須有此 MDS 記錄檔案系統元數據，但目前只支援同時一台有效，因此會造成效能瓶頸。
+* MDS \(Metadata server\)：若有使用 Ceph FS 則必須有此 MDS 記錄檔案系統元資料，但目前只支援同時一台有效，因此會造成效能瓶頸。
 
 ### 應用
 
