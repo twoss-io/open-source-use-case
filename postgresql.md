@@ -34,14 +34,14 @@ PostgreSQL 資料庫為目前最廣泛使用的開放原始碼資料庫之一，
 ### 資料來源：
 
 * The world's most advanced open source database [https://www.postgresql.org/](https://www.postgresql.org/)
-* PostgreSQL 中文-Mammoth [http://postgresql.wisdomfish.org/](http://postgresql.wisdomfish.org/)
+* PostgreSQL 台灣使用者社群 [https://postgresql.tw](https://postgresql.tw)
 * DSpace的PostgreSQL資料庫架構與操作 [http://blog.pulipuli.info/2008/01/dspacepostgresql.html](http://blog.pulipuli.info/2008/01/dspacepostgresql.html)
 * 開放原始碼 PostgreSQL 資料庫系統簡介 [https://www.ipro.tw/ict-news/1302-postgresql-about.html](https://www.ipro.tw/ict-news/1302-postgresql-about.html)
 * 不一樣的Node.js：用JavaScript打造高效能的前後台網頁程式 第二版 [https://books.google.com.tw/books?id=YyMqCwAAQBAJ&printsec=frontcover&hl=zh-TW\#v=onepage&q&f=false](https://books.google.com.tw/books?id=YyMqCwAAQBAJ&printsec=frontcover&hl=zh-TW#v=onepage&q&f=false)
 * PostgreSQL 國際中文社群網誌
   [http://postgresql-chinese.blogspot.tw/2008/10/nttpostgresql30.html](http://postgresql-chinese.blogspot.tw/2008/10/nttpostgresql30.html)
-* ostgreSQL的商業功能，摘要說明 [http://www.thinkpower.com.tw/CrystalDB.html](http://www.thinkpower.com.tw/CrystalDB.html)
-* Node.js 資料庫應用 [https://lrs.itsa.org.tw/file.php/595/104%E6%95%99%E6%9D%90--%E7%B6%B2%E8%B7%AF%E5%8F%8A%E5%B9%B3%E5%8F%B0%E6%9C%8D%E5%8B%99\_%E9%AB%98%E9%9B%84%E5%A4%A7%E5%AD%B8%E5%BC%B5%E4%BF%9D%E6%A6%AE/Part\_A-\_%E5%B9%B3%E5%8F%B0%E6%9C%8D%E5%8B%99%E8%AA%B2%E7%A8%8B%E6%95%99%E6%9D%90/2.%E6%95%99%E6%9D%90%E6%8A%95%E5%BD%B1%E7%89%87/12\_Node.js%E7%9A%84%E8%B3%87%E6%96%99%E5%BA%AB%E6%87%89%E7%94%A8.pdf](https://lrs.itsa.org.tw/file.php/595/104教材--網路及平台服務_高雄大學張保榮/Part_A-_平台服務課程教材/2.教材投影片/12_Node.js的資料庫應用.pdf)
+* PostgreSQL的商業功能，摘要說明 [http://www.thinkpower.com.tw/CrystalDB.html](http://www.thinkpower.com.tw/CrystalDB.html)
+* Node.js 資料庫應用 [https://lrs.itsa.org.tw/file.php/595/104教材--網路及平台服務\_高雄大學張保榮/Part\_A-\_平台服務課程教材/2.教材投影片/12\_Node.js的資料庫應用.pdf](https://lrs.itsa.org.tw/file.php/595/104教材--網路及平台服務_高雄大學張保榮/Part_A-_平台服務課程教材/2.教材投影片/12_Node.js的資料庫應用.pdf)
 
 
 
