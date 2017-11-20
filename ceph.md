@@ -10,7 +10,7 @@
 
 ### 組織介紹
 
-在 2004 年，Sage Weil 開發了一個名叫 Ceph 的開源項目，並於 2006 年，根據開源協議開源了 Ceph。Weil 曾經是「Inktank Storage」公司的創始人。Inktank Storage 一直專注於 Ceph 的研發，直到它被紅帽收購。2012 年，Ceph 的第一個穩定版本發布了。2014 年 10 月，Ceph 的開發團隊發布了 Ceph 的第七個穩定版本 Giant。為了讓 Ceph 更加成熟與完美，這個項目還在繼續開發中。
+在 2004 年，Sage Weil 開發了一個名叫 Ceph 的開源專案，並於 2006 年，根據開源協議開源了 Ceph。Weil 曾經是「Inktank Storage」公司的創始人。Inktank Storage 一直專注於 Ceph 的研發，直到它被紅帽收購。2012 年，Ceph 的第一個穩定版本發布了。2014 年 10 月，Ceph 的開發團隊發布了 Ceph 的第七個穩定版本 Giant。為了讓 Ceph 更加成熟與完美，這個項目還在繼續開發中。
 
 ### 軟體介紹
 
