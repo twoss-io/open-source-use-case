@@ -4,6 +4,18 @@
 
 ![](/assets/MariaDB.png)
 
+### Why MariaDB
+
+由於 MariaDB 是 MySQL 的衍生系統，所以這裡列出的項目是給習慣於 MySQL 操作的朋友參考。
+
+* MariaDB的開發更加開放且充滿活力
+* 更快且更透明的安全版本更新
+* 更多的尖端功能
+* 更多的儲存引擎
+* 更好的效能
+* 你擔心 Oracle 公司的商業考量影響
+* 2015年後資料庫遷移開始會變得困難
+
 ### 典範案例
 
 * [內政部營建署著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
