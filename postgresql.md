@@ -11,6 +11,14 @@
 * [經濟部中央地質調查所 — 地質騰雲網運用多套開源軟體](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti.md)
 * [內政部營建署著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
 
+### Why PostgreSQL
+
+* 你規劃使用複雜的自訂程序（stored procedure）
+* 你將要使用 Java 工作
+* 你的資料庫是龐大而復雜的，需要高度的資料一致性，並且有許多種查詢類型
+* 你將會進行許多寫入操作，而讀取速度並不是唯一的考量
+* 你的專案是以開發人員為中心的
+
 ### 組織介紹
 
 PostgreSQL 是由散佈在全球的數百名開發者（包含非營利組織團體，學術研究機構及國際企業體）志願貢獻與共同開發的專案成果，歷經 22 年來持續發展。長久以來被用於要求極端嚴謹的商業應用／科學研究環境及政府組織中。PostgreSQL 為 BSD 版權協議發佈，允許在商業或非商業應用的兩種環境下，皆能享有自由取得且不受限制的使用權。PostgreSQL 具有高度擴展性，且完整遵從國際 ISO-SQL 規範的開發方向，是當前最先進的開放原始碼 \(OSS\) 的物件關聯型資料庫管理系統 \(ORDBMS\)。
@@ -35,6 +43,7 @@ PostgreSQL 資料庫為目前最廣泛使用的開放原始碼資料庫之一，
 
 * The world's most advanced open source database [https://www.postgresql.org/](https://www.postgresql.org/)
 * PostgreSQL 台灣使用者社群 [https://postgresql.tw](https://postgresql.tw)
+* PostgreSQL 常見問題 [https://faq.postgresql.tw](https://faq.postgresql.tw)
 * DSpace的PostgreSQL資料庫架構與操作 [http://blog.pulipuli.info/2008/01/dspacepostgresql.html](http://blog.pulipuli.info/2008/01/dspacepostgresql.html)
 * 開放原始碼 PostgreSQL 資料庫系統簡介 [https://www.ipro.tw/ict-news/1302-postgresql-about.html](https://www.ipro.tw/ict-news/1302-postgresql-about.html)
 * 不一樣的Node.js：用JavaScript打造高效能的前後台網頁程式 第二版 [https://books.google.com.tw/books?id=YyMqCwAAQBAJ&printsec=frontcover&hl=zh-TW\#v=onepage&q&f=false](https://books.google.com.tw/books?id=YyMqCwAAQBAJ&printsec=frontcover&hl=zh-TW#v=onepage&q&f=false)

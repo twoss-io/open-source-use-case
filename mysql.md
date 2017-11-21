@@ -9,6 +9,13 @@
 * [經濟部水利署 — 水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
 * [內政部營建署著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
 
+### Why MySQL
+
+* 你的資料庫不會擴展很大的程度
+* 你正在計劃建立一個唯讀的網路應用程式或網站
+* 你需要多重的資料複製
+* 你的專案只需要簡單的查詢，並且較少處理資料一致性的問題
+
 ### 組織介紹
 
 MySQL 原本是一個開放原始碼的關聯式資料庫管理系統，原開發者為瑞典的 MySQL AB 公司，該公司於 2008 年被昇陽微系統收購。2009 年甲骨文公司 \(Oracle\) 收購昇陽微系統公司，MySQL 成為 Oracle 旗下產品。
