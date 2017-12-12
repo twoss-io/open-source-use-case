@@ -19,7 +19,6 @@
 
 ## 監控
 
-* [Ceph](ceph.md)
 * [Nagios](nagios.md)
 * [OpenNMS](opennms.md)
 
@@ -48,4 +47,5 @@
 ## 檔案儲存
 
 * [Cacti](cacti.md)
+* [Ceph](ceph.md)
 
