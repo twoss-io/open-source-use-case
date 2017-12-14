@@ -11,6 +11,7 @@
 * [經濟部中央地質調查所 — 地質騰雲網運用多套開源軟體](use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti.md)
 * [內政部營建署著手打造 SDS 架構](use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
 * [國家災害防救科技中心活用多套開源軟體](use-case/guo-jia-zai-hai-fang-jiu-ke-ji-zhong-xin-huo-yong-duo-tao-kai-yuan-ruan-ti.md)
+* [高雄市政府－推動開源軟體專案 培育台灣開源人才](use-case/gao-xiong-shi-zheng-fu-ff0d-tui-dong-kai-yuan-ruan-ti-zhuan-an-pei-yu-tai-wan-kai-yuan-ren-cai.md)
 
 ## 作業系統
 
