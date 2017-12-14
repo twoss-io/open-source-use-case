@@ -13,6 +13,7 @@
 * [國家災害防救科技中心 — 活用多套開源軟體](use-case/guo-jia-zai-hai-fang-jiu-ke-ji-zhong-xin-huo-yong-duo-tao-kai-yuan-ruan-ti.md)
 * [高雄市政府 － 推動開源軟體專案 培育台灣開源人才](use-case/gao-xiong-shi-zheng-fu-ff0d-tui-dong-kai-yuan-ruan-ti-zhuan-an-pei-yu-tai-wan-kai-yuan-ren-cai.md)
 * [勞動部 － 運用開源軟體有成 為民眾創造有感服務](use-case/lao-dong-bu-ff0d-yun-yong-kai-yuan-ruan-ti-you-cheng-wei-min-zhong-chuang-zao-you-gan-fu-wu.md)
+* [桃園市政府 — 奪全球 7 大智慧城市美譽開源軟體扮演幕後功臣](use-case/tao-yuan-shi-zheng-fu-duo-quan-qiu-7-da-zhi-hui-cheng-shi-mei-yu-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
 
 ## 作業系統
 
