@@ -28,13 +28,13 @@ CentOS 的背後有一個運作且成長中的使用者社群，此社群不但�
 
 CentOS 強調一般使用者都可以聯絡到開發者，並且會回應使用者所提出的開發建議或問題修改。在使用 CentOS 方面，如果有操作上的問題，則可透過 IRC 聊天室、電子郵件列表、線上討論區，或是隨時進行更新的常見問題集取得答案。
 
-内核更新至 3.10.0；支援 Linux 容器 \(Docker\)，Open VMware Tools 及 3D 圖像能即装即用，Open JDK7 作為預設 JDK，ext4 及XFS 的 LVM 快照，轉用 systemd、firewalld 及 GRUB2，XFS 作為預設文件系统，内核空間内的 iSCSI 及 FCoE，支援 PTPv2，支援40G 網卡等。
+内核更新至 3.10.0；支援 Linux 容器 \(Docker\)，Open VMware Tools 及 3D 圖像能即裝即用，Open JDK7 作為預設 JDK，ext4 及XFS 的 LVM 快照，轉用 systemd、firewalld 及 GRUB2，XFS 作為預設文件系统，内核空間内的 iSCSI 及 FCoE，支援 PTPv2，支援40G 網卡等。
 
 ### 應用
 
-非常多的商業公司部署在生產環境上的服務器都是使用的 CentOS 系統，CentOS 是從 RHEL 源代碼編譯的社群重新發布版。CentOS簡約，命令行下的人性化做得比較好、穩定，有著強大的英文文件與開群社區的支援。與 Redhat 有著相同的淵源。雖然不單獨提供商業支援，但往往可以從 Redhat 中找到一絲線索。相對 debian 來說，CentOS 略顯體積大一點。是一個非常成熟的Linux發行版。
+非常多的商業公司部署在生產環境上的服務器都是使用的 CentOS 系統，CentOS 是從 RHEL 源代碼編譯的社群重新發布版。CentOS簡約，命令行下的人性化做得比較好、穩定，有著強大的英文文件與開源社群的支援。與 Redhat 有著相同的淵源。雖然不單獨提供商業支援，但往往可以從 Redhat 中找到一絲線索。相對 debian 來說，CentOS 略顯體積大一點。是一個非常成熟的Linux發行版。
 
-很多網站站長一般都選擇 CentOS 系統，CentOS 是從 redhat 源代碼編譯重新發布版。CentOS 去除很多與服務器功能無關的應用，系統簡單但非常穩定，命令行操作可以方便管理系統和應用，並且有幫助文件和社區的支援。
+很多網站站長一般都選擇 CentOS 系統，CentOS 是從 redhat 源代碼編譯重新發布版。CentOS 去除很多與服務器功能無關的應用，系統簡單但非常穩定，命令行操作可以方便管理系統和應用，並且有幫助文件和社群的支援。
 
 ### 資料來源：
 
