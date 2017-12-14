@@ -1,6 +1,6 @@
 # 典範案例
 
-## 財政部關務署導入 LibreOffice 有成
+## 財政部關務署—導入 LibreOffice 有成
 
 ![](/assets/123_47.jpg)![](/assets/vghtc-4.jpg)
 
