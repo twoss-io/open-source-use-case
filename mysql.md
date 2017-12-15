@@ -8,6 +8,8 @@
 
 * [經濟部水利署 — 水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
 * [內政部營建署 — 著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
+* [勞動部 — 運用開源軟體有成 為民眾創造有感服務](/use-case/lao-dong-bu-ff0d-yun-yong-kai-yuan-ruan-ti-you-cheng-wei-min-zhong-chuang-zao-you-gan-fu-wu.md)
+* [台南市政府—邁向智慧之都 開源軟體扮先鋒](/use-case/tai-nan-shi-zheng-fu-2014-mai-xiang-zhi-hui-zhi-du-kai-yuan-ruan-ti-ban-xian-feng.md)
 
 ### Why MySQL
 

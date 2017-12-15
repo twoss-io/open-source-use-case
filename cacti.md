@@ -8,6 +8,7 @@
 
 * [台中榮民總醫院 — 致力引進開源軟體](//use-case/vghtc.md)
 * [內政部營建署 — 著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
+* [台南市政府—邁向智慧之都 開源軟體扮先鋒](/use-case/tai-nan-shi-zheng-fu-2014-mai-xiang-zhi-hui-zhi-du-kai-yuan-ruan-ti-ban-xian-feng.md)
 
 ### 組織介紹
 

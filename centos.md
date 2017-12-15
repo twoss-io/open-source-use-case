@@ -7,6 +7,8 @@
 ### 典範案例
 
 * [內政部營建署 — 著手打造 SDS 架構](/use-case/di-zhi-teng-yun-wang-yun-yong-duo-tao-kai-yuan-ruan-ti/ying-jian-shu-zhu-shou-da-zao-sds-jia-gou.md)
+* [勞動部 — 運用開源軟體有成 為民眾創造有感服務](/use-case/lao-dong-bu-ff0d-yun-yong-kai-yuan-ruan-ti-you-cheng-wei-min-zhong-chuang-zao-you-gan-fu-wu.md)
+* [桃園市政府 — 奪全球 7 大智慧城市美譽開源軟體扮演幕後功臣](/use-case/tao-yuan-shi-zheng-fu-duo-quan-qiu-7-da-zhi-hui-cheng-shi-mei-yu-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
 
 ### Why CentOS
 

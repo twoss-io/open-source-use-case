@@ -8,6 +8,10 @@
 
 * [財政部關務署 — 導入 LibreOffice 有成](/cai-zheng-bu-guan-wu-shu-dao-ru-libreoffice-you-cheng.md)
 * [台中榮民總醫院 — 致力引進開源軟體](//use-case/vghtc.md)
+* [高雄市政府 — 推動開源軟體專案 培育台灣開源人才](/use-case/gao-xiong-shi-zheng-fu-ff0d-tui-dong-kai-yuan-ruan-ti-zhuan-an-pei-yu-tai-wan-kai-yuan-ren-cai.md)
+* [勞動部 — 運用開源軟體有成 為民眾創造有感服務](/use-case/lao-dong-bu-ff0d-yun-yong-kai-yuan-ruan-ti-you-cheng-wei-min-zhong-chuang-zao-you-gan-fu-wu.md)
+* [桃園市政府 — 奪全球 7 大智慧城市美譽開源軟體扮演幕後功臣](/use-case/tao-yuan-shi-zheng-fu-duo-quan-qiu-7-da-zhi-hui-cheng-shi-mei-yu-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
+* [台南市政府—邁向智慧之都 開源軟體扮先鋒](/use-case/tai-nan-shi-zheng-fu-2014-mai-xiang-zhi-hui-zhi-du-kai-yuan-ruan-ti-ban-xian-feng.md)
 
 ### 組織介紹
 
