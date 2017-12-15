@@ -16,11 +16,6 @@
 * [桃園市政府 — 奪全球 7 大智慧城市美譽開源軟體扮演幕後功臣](use-case/tao-yuan-shi-zheng-fu-duo-quan-qiu-7-da-zhi-hui-cheng-shi-mei-yu-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
 * [國家發展委員會檔案管理局 — 推動開源專案 確保國家檔案長期可用性](use-case/guo-jia-fa-zhan-wei-yuan-hui-dang-an-guan-li-ju-tui-dong-kai-yuan-zhuan-an-que-bao-guo-jia-dang-an-chang-qi-ke-yong-xing.md)
 * [台南市政府—邁向智慧之都 開源軟體扮先鋒](use-case/tai-nan-shi-zheng-fu-2014-mai-xiang-zhi-hui-zhi-du-kai-yuan-ruan-ti-ban-xian-feng.md)
-* [高雄市政府 — 推動開源軟體專案 培育台灣開源人才](/use-case/lao-dong-bu-ff0d-yun-yong-kai-yuan-ruan-ti-you-cheng-wei-min-zhong-chuang-zao-you-gan-fu-wu.md)
-* [勞動部 — 運用開源軟體有成 為民眾創造有感服務](/use-case/lao-dong-bu-ff0d-yun-yong-kai-yuan-ruan-ti-you-cheng-wei-min-zhong-chuang-zao-you-gan-fu-wu.md)
-* [桃園市政府 — 奪全球 7 大智慧城市美譽開源軟體扮演幕後功臣](/use-case/tao-yuan-shi-zheng-fu-duo-quan-qiu-7-da-zhi-hui-cheng-shi-mei-yu-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
-* [國家發展委員會檔案管理局 — 推動開源專案 確保國家檔案長期可用性](/use-case/guo-jia-fa-zhan-wei-yuan-hui-dang-an-guan-li-ju-tui-dong-kai-yuan-zhuan-an-que-bao-guo-jia-dang-an-chang-qi-ke-yong-xing.md)
-* [台南市政府—邁向智慧之都 開源軟體扮先鋒](/use-case/tai-nan-shi-zheng-fu-2014-mai-xiang-zhi-hui-zhi-du-kai-yuan-ruan-ti-ban-xian-feng.md)
 
 ## 作業系統
 
@@ -58,6 +53,4 @@
 
 * [Cacti](cacti.md)
 * [Ceph](ceph.md)
-
-
 
