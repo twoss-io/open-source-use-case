@@ -7,8 +7,8 @@
 ### 典範案例
 
 * [經濟部水利署—水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
-* [台中榮民總醫院致力引進開源軟體](//use-case/vghtc.md)
-* [財政部關務署導入 LibreOffice 有成](/cai-zheng-bu-guan-wu-shu-dao-ru-libreoffice-you-cheng.md)
+* [台中榮民總醫院 — 致力引進開源軟體](//use-case/vghtc.md)
+* [財政部關務署 — 導入 LibreOffice 有成](/cai-zheng-bu-guan-wu-shu-dao-ru-libreoffice-you-cheng.md)
 
 ### 組織介紹
 

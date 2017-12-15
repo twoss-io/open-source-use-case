@@ -2,7 +2,7 @@
 
 ## **Ceph**
 
-![](/assets/1509609660571.jpg)![](/assets/Ceph.png)
+![](/assets/Ceph.png)
 
 ### 典範案例
 
