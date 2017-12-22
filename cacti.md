@@ -43,11 +43,11 @@ Cacti 豐富的 Plugins 套件，將許多網路管理上常用及好用的軟�
 ### 資料來源
 
 * Cacti® - The Complete RRDTool-based Graphing Solution. [https://www.cacti.net/](https://www.cacti.net/)
-* [https://baike.baidu.com/item/Cacti/10496138](https://baike.baidu.com/item/Cacti/10496138)
-* [http://www.itread01.com/content/1506965891.html](http://www.itread01.com/content/1506965891.html)
-* [http://www.ringline.com.tw/zh-tw/article\_info.php?id=44](http://www.ringline.com.tw/zh-tw/article_info.php?id=44)
-* [https://yq.aliyun.com/articles/117712](https://yq.aliyun.com/articles/117712)
-* [https://en.wikipedia.org/wiki/Cacti\_\(software\)](https://en.wikipedia.org/wiki/Cacti_%28software%29)
+* cacti簡介 [https://baike.baidu.com/item/Cacti/10496138](https://baike.baidu.com/item/Cacti/10496138)
+* Linux的企業-監控Cacti [http://www.itread01.com/content/1506965891.html](http://www.itread01.com/content/1506965891.html)
+* MRTG再進化──多功能的Cacti [http://www.ringline.com.tw/zh-tw/article\_info.php?id=44](http://www.ringline.com.tw/zh-tw/article_info.php?id=44)
+* 《Cacti實戰》——1.1　Cacti的起源與發展現狀 [https://yq.aliyun.com/articles/117712](https://yq.aliyun.com/articles/117712)
+* 維基百科 Cacti  [https://en.wikipedia.org/wiki/Cacti\_\(software\)](https://en.wikipedia.org/wiki/Cacti_%28software%29)
 
 
 

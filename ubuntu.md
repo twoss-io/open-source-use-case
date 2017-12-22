@@ -52,7 +52,7 @@ Ubuntu 是一個免費的開放原始碼平台，供使用者、伺服器和雲�
 * CentOS市場份額占66%，Ubuntu占20%，對於企業用戶
    [https://kknews.cc/other/oove9xo.html](https://kknews.cc/other/oove9xo.html)
 * Canonical與甲骨文達成合作：甲骨文企業雲用戶可選擇Ubuntu
-   [https://read01.com/JMkoQ.html](https://read01.com/JMkoQ.html)
+  http://www.cnbeta.com/articles/tech/471085.htm
 * 微軟支援Linux更進一步，可以使用Windows 10執行Bash [https://www.ithome.com.tw/news/105064](https://www.ithome.com.tw/news/105064)
 * Canonical推出物聯網裝置專用的Ubuntu Core [https://www.ithome.com.tw/news/93665](https://www.ithome.com.tw/news/93665)
 * 新版Ubuntu讓企業快速安裝Hadoop [https://www.ithome.com.tw/node/70524](https://www.ithome.com.tw/node/70524)
