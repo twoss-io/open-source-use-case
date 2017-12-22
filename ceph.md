@@ -41,7 +41,7 @@
 * Ceph Incremental Snapshots with RBD [http://ceph.com/geen-categorie/incremental-snapshots-with-rbd/](http://ceph.com/geen-categorie/incremental-snapshots-with-rbd/)
 * Ceph 簡介 [http://godleon.blogspot.tw/2014/10/ceph.html](http://godleon.blogspot.tw/2014/10/ceph.html)
 * 一次搞懂Ceph儲存架構與應用形式 [https://www.ithome.com.tw/tech/98860](https://www.ithome.com.tw/tech/98860)
-* 理解Ceph：一個開源的分布式存儲平台 [https://read01.com/0z5aGM.html](https://read01.com/0z5aGM.html)
+* 理解Ceph：一個開源的分布式存儲平台 [https://yq.aliyun.com/articles/224759](https://yq.aliyun.com/articles/224759)
 * 超大型儲存應用異軍突起！Ceph有機會翻轉雲服務與企業儲存架構 [https://www.ithome.com.tw/tech/98858](https://www.ithome.com.tw/tech/98858)
 
 
