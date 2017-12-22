@@ -43,7 +43,7 @@ Spark 設計具有一種泛用性，剛好將運算模組和底層架構切開�
 * 【Spark研究】用Apache Spark進行大數據處理第二部分：Spark SQL [http://www.infoq.com/cn/articles/apache-spark-sql](http://www.infoq.com/cn/articles/apache-spark-sql)
 * 大資料技術新秀Spark如何通吃批次和串流資料分析能力 [https://www.ithome.com.tw/news/103290](https://www.ithome.com.tw/news/103290)
 * 微軟雲端大數據宣布投入更多Spark應用開發 [https://www.bnext.com.tw/article/39838/BN-2016-06-07-025724-216](https://www.bnext.com.tw/article/39838/BN-2016-06-07-025724-216)
-* 事實上，Spark是一項非常值得學習的技術 [https://kknews.cc/zh-tw/news/4b2pev.html](https://kknews.cc/zh-tw/news/4b2pev.html)
+* 事實上，Spark是一項非常值得學習的技術 ttp://developer.51cto.com/art/201602/505664.htm
 
 
 
