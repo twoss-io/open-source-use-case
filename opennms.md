@@ -34,9 +34,9 @@ OpenNMS 的手機套件，預設是透過 HTTP、TCP 8980 埠的管道與系統�
 
 * OpenNMS [https://www.opennms.org/en](https://www.opennms.org/en)
 * OpenNMS架構介紹 [http://www.wenwenti.info/article/780163](http://www.wenwenti.info/article/780163)
-* 2017 年最佳開源網路監控工具 https://www.oschina.net/translate/best-open-source-network-monitoring-tools-2017
+* 2017 年最佳開源網路監控工具 [https://www.oschina.net/translate/best-open-source-network-monitoring-tools-2017](https://www.oschina.net/translate/best-open-source-network-monitoring-tools-2017)
 * 維基百科OpenNMS [https://en.wikipedia.org/wiki/OpenNMS](https://en.wikipedia.org/wiki/OpenNMS)
-* 開源還是商用？十大雲運維監控工具橫評 [https://read01.com/QagjGG.html](https://read01.com/QagjGG.html)
+* 開源還是商用？十大雲運維監控工具橫評 http://blog.csdn.net/enweitech/article/details/51801377
 * 10套讓你作好網管的iPhone軟體 [https://www.ithome.com.tw/tech/92231](https://www.ithome.com.tw/tech/92231)
 
 
