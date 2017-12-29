@@ -8,6 +8,7 @@
 
 * [經濟部水利署 — 水利雲受推崇開源軟體扮演幕後功臣](/shui-li-yun-shou-tui-chong-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
 * [中央研究院 — R軟體成統計分析市場主流](/man-zu-zhi-ming-ji-yin-ding-wei-xu-qiu-r-ruan-ti-cheng-tong-ji-fen-xi-shi-chang-zhu-liu.md)
+* [中央氣象局氣象資訊中心 — 運用多項開源軟體，實踐自動化的天氣測報與服務作業](//use-case/zhong-yang-qi-xiang-ju-qi-xiang-zi-xun-zhong-xin-yun-yong-duo-xiang-kai-yuan-ruan-ti-ff0c-shi-jian-zi-dong-hua-de-tian-qi-ce-bao-yu-fu-wu-zuo-ye.md)
 
 ### 組織介紹
 
