@@ -16,6 +16,7 @@
 * [桃園市政府 — 奪全球 7 大智慧城市美譽開源軟體扮演幕後功臣](use-case/tao-yuan-shi-zheng-fu-duo-quan-qiu-7-da-zhi-hui-cheng-shi-mei-yu-kai-yuan-ruan-ti-ban-yan-mu-hou-gong-chen.md)
 * [國家發展委員會檔案管理局 — 推動開源專案 確保國家檔案長期可用性](use-case/guo-jia-fa-zhan-wei-yuan-hui-dang-an-guan-li-ju-tui-dong-kai-yuan-zhuan-an-que-bao-guo-jia-dang-an-chang-qi-ke-yong-xing.md)
 * [台南市政府—邁向智慧之都 開源軟體扮先鋒](use-case/tai-nan-shi-zheng-fu-2014-mai-xiang-zhi-hui-zhi-du-kai-yuan-ruan-ti-ban-xian-feng.md)
+* [中央氣象局氣象資訊中心 — 運用多項開源軟體，實踐自動化的天氣測報與服務作業](use-case/zhong-yang-qi-xiang-ju-qi-xiang-zi-xun-zhong-xin-yun-yong-duo-xiang-kai-yuan-ruan-ti-ff0c-shi-jian-zi-dong-hua-de-tian-qi-ce-bao-yu-fu-wu-zuo-ye.md)
 
 ## 作業系統
 
